@@ -1,0 +1,33 @@
+
+Todo:
+  ☐ .ealintrc.json を .eslintrc.js に変更する
+
+FIXME:
+  ✔ Next.js + TypeScript のテンプレートを作成する @done(22-01-20 17:02)
+  ✔ ESLint と Prettier の設定を自分用にカスタマイズする @done(22-01-20 17:09)
+
+FIX:
+
+
+BUG:
+
+
+UGLY:
+
+
+HACK:
+
+
+NOTE:
+  ☐ 各フレームワークのスターターを作成したい
+
+IDEA:
+
+
+REVIEW:
+
+
+DEBUG:
+
+
+OPTIMIZE:
